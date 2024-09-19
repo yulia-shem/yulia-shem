@@ -28,6 +28,18 @@ Web
 
 <details>
 <summary>
+Data Science
+</summary>
+
+- Jupyter Notebook
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+</details>
+
+<details>
+<summary>
 Базы данных
 </summary>
 
