@@ -13,6 +13,7 @@ Python
 </summary>
 
 - Flask
+- Pytorch
 </details>
 
 <details>
@@ -37,14 +38,6 @@ Data Science
 - Numpy
 - Matplotlib
 - Seaborn
-</details>
-
-<details>
-<summary>
-Нейросети
-</summary>
-    
-- Pytorch
 </details>
 
 <details>
