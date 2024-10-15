@@ -41,6 +41,14 @@ Data Science
 
 <details>
 <summary>
+Нейросети
+</summary>
+    
+- Pytorch
+</details>
+
+<details>
+<summary>
 Базы данных
 </summary>
 
