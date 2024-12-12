@@ -13,7 +13,7 @@ Python
 </summary>
 
 - Flask
-- Fastapi
+- FastAPI
 </details>
 
 <details>
