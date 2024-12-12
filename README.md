@@ -13,7 +13,7 @@ Python
 </summary>
 
 - Flask
-- Pytorch
+- Fastapi
 </details>
 
 <details>
