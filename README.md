@@ -8,18 +8,24 @@
 ### Языки, технологии
 <i>В процессе освоения:</i>
 <details>
-<summary>
-Python
-</summary>
+    <summary>
+        Python
+    </summary>
 
 - Flask
 - FastAPI
 </details>
 
 <details>
-<summary>
-Web
-</summary>
+    <summary>
+        C++
+    </summary>
+</details>
+
+<details>
+    <summary>
+        Web
+    </summary>
     
 - Flask
 - HTML
@@ -29,9 +35,9 @@ Web
 </details>
 
 <details>
-<summary>
-Data Science
-</summary>
+    <summary>
+        Data Science
+    </summary>
 
 - Jupyter Notebook
 - Pandas
@@ -41,29 +47,29 @@ Data Science
 </details>
 
 <details>
-<summary>
-Базы данных
-</summary>
+    <summary>
+        Базы данных
+    </summary>
 
 - SQLAlchemy
 </details>
 
 <details>
-<summary>
-Прочее
-</summary>
+    <summary>
+        Прочее
+    </summary>
 
 - Git
 - Github
 </details>
 
 <details>
-<summary>
-<h3>Codewars</h3>
-</summary>
-<img src='https://www.codewars.com/users/yulia.shem/badges/large' width='50%' align='center'>
-<picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://codewars-stats-ignacio-cuadra.vercel.app/?username=yulia.shem&theme=light&primaryColor=3c7ebb">
-    <img align="left" width="450">
-</picture>
+    <summary>
+        <h3>Codewars</h3>
+    </summary>
+    <img src='https://www.codewars.com/users/yulia.shem/badges/large' width='50%' align='center'>
+    <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://codewars-stats-ignacio-cuadra.vercel.app/?username=yulia.shem&theme=light&primaryColor=3c7ebb">
+        <img align="left" width="450">
+    </picture>
 </details>
