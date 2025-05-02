@@ -59,6 +59,7 @@
     </summary>
 
 - SQLAlchemy
+- SQLite
 </details>
 
 <details>
