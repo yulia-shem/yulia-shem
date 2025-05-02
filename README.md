@@ -28,6 +28,7 @@
     </summary>
     
 - Flask
+- FastAPI
 - HTML
 - CSS
 - Javascript
