@@ -45,6 +45,13 @@
 - Matplotlib
 - Seaborn
 </details>
+<details>
+    <summary>
+        Machine Learning
+    </summary>
+    
+- Scikit-learn
+</details>
 
 <details>
     <summary>
