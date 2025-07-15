@@ -6,7 +6,7 @@ I enjoy learning new things.
 Email to contact me: yulia.shem.17@yandex.ru
 ```
 ### Languages, technologies
-<i>Learning in progress</i>
+<i>Learning in progress:</i>
 <details>
     <summary>
         Python
