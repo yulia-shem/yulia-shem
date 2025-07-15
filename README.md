@@ -1,12 +1,12 @@
 <h1 align="center">Welcome!</h1>
 
 ```
-Я интересуюсь программированием.
-Люблю изучать всё новое.
-Связаться со мной можно по мейлу: yulia.shem.17@yandex.ru
+I'm interested in programming.
+I enjoy learning new things.
+Email to contact me: yulia.shem.17@yandex.ru
 ```
-### Языки, технологии
-<i>В процессе освоения</i>
+### Languages, technologies
+<i>Learning in progress</i>
 <details>
     <summary>
         Python
@@ -56,7 +56,7 @@
 
 <details>
     <summary>
-        Базы данных
+        Data bases
     </summary>
 
 - SQLAlchemy
@@ -65,7 +65,7 @@
 
 <details>
     <summary>
-        Прочее
+        Other
     </summary>
 
 - Git
