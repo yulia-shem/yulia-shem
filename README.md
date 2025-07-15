@@ -52,6 +52,8 @@ Email to contact me: yulia.shem.17@yandex.ru
     </summary>
     
 - Scikit-learn
+- Tensorflow
+- Keras
 </details>
 
 <details>
