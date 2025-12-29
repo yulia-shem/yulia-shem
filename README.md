@@ -20,6 +20,7 @@ Email to contact me: yulia.shem.17@yandex.ru
     <summary>
         C++
     </summary>
+- Algorithms
 </details>
 
 <details>
