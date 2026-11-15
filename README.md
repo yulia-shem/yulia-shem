@@ -1,6 +1,7 @@
 <h1 align="center">Welcome!</h1>
 
 ```
+I'm a student at ITMO University.
 I'm interested in programming.
 I enjoy learning new things.
 Email to contact me: yulia.shem.17@yandex.ru
@@ -37,6 +38,14 @@ Email to contact me: yulia.shem.17@yandex.ru
 
 <details>
     <summary>
+        Android
+    </summary>
+    
+- Kotlin
+</details>
+
+<details>
+    <summary>
         Data Science
     </summary>
 
@@ -63,6 +72,8 @@ Email to contact me: yulia.shem.17@yandex.ru
 
 - SQLAlchemy
 - SQLite
+- Room
+- Retrofit
 </details>
 
 <details>
